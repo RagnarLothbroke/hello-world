@@ -1,3 +1,3 @@
 # hello-world
-Seguindo guia GitHub 
- e mais umavez, seguindo o guia
+Seguindo guia GitHub
+e mais uma vez, seguindo o guia
